@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\Professional\source\repos\FreedomPath2\FreedomPath2\Game.cpp(18,19): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+C:\Users\Professional\source\repos\FreedomPath2\FreedomPath2\Game.cpp(220,31): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  main.cpp
+  Zombie.cpp
+  Создание кода...
+  FreedomPath2.vcxproj -> C:\Users\Professional\source\repos\FreedomPath2\x64\Debug\FreedomPath2.exe
